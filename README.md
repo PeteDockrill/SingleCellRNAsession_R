@@ -1,2 +1,4 @@
 # SingleCellRNAsession_R
-Materials used for a three-session class on the analysis of Single-Cell RNA sequencing data, originally for BioSoc at Magdalen College School in June 2024. 
+These materials were used for two 40-minute sessions for Year 12 members of BioSoc at Magdalen College School in June 2024. They are based on the [introductory PBMC tutorial available on the Seurat website](https://satijalab.org/seurat/articles/pbmc3k_tutorial), with additional commentary added to introduce students to the basic concepts underlying scRNA-seq data analysis and the typical use of online resources such as Uniprot. 
+
+Pupils were able to upload the iPython notebooks to Google Colab and run them during the sessions. This is the reccomended method of use, but note that the first cell will take around 20-30 minutes to run and will need to run every time the Colab runtime is disconnected. I delivered the content using a presentation developed using the add-on [RISE](https://rise.readthedocs.io/en/latest/index.html#) which is strongly reccomended. 

@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Specifics
+.ipynb_checkpoints 
+filtered_gene_bc_matrices
+.DS_Store
+
+*.tar
+*.tar.gz
